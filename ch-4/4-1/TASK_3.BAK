@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<conio.h>
+main()
+{
+	int a,b;
+
+	clrscr();
+
+	printf("enter the value of x :\t");
+	scanf("%d",&x);
+
+	printf("enter the value of y :\t");
+	scanf("%d",&y);
+
+	printf("(x+y)^3 = %d",(a*a*a)+(3*a*a*b)+(3*a*b*b)+(b*b*b));
+
+	getch();
+}
