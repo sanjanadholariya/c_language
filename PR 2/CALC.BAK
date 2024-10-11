@@ -50,7 +50,7 @@ main()
 
 	}
 
-	if(grade>='A' && grade<='D')
+	if(grade>='A' && grade<='E')
 	{
 		printf("Your are eligible for next step..!");
 	}

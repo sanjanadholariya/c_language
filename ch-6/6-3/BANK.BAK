@@ -22,16 +22,17 @@ main()
 		case 1:
 			clrscr();
 			fflush(stdin);
-			p("\n\nPress A for create saving account.");
-			p("\nPress B for create current account.");
-			p("\nPress C for create fix deposite.");
-			p("\nPress D for create DEMATE account");
+			p("\n\nPress A for create saving account. ");
+			p("\nPress B for create current account. ");
+			p("\nPress C for create fix deposite. ");
+			p("\nPress D for create DEMATE account ");
 			scanf("%c",&ac);
 
 				switch(ac)
 				{
 				   case 'A':
 				   case 'a':
+					clrscr();
 					p("Enter your name :");
 					scanf("%s",&name);
 				}
