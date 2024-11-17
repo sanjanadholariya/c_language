@@ -5,21 +5,17 @@ main()
 	int i,j,s;
 	clrscr();
 	
-	for(i=5; i>=1; i--)
+	for(i=1; i<=6; i++)
 	{
-		for(s=5; s>i; s--)
+		for(j=1; j<=6; j++)
 		{
-			printf("  ");
-		}
-		for(j=1; j<=i; j++)
-		{
-			if(j%2==0)
+			if(j==1 || i==1 || i==3 || (i==2 && j==6))
 			{
-				printf("0 ");
+				printf("* ");
 			}
 			else
 			{
-				printf("1 ");
+				printf("  ");
 			}
 		}
 		printf("\n");
