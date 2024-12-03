@@ -32,7 +32,7 @@ main()
 
     int condition = 0;
 
-    for (int i = 0; i < count; i++)
+    for (int i = 0; i < len; i++)
     {
         if (string[i] != copy[i])
         {

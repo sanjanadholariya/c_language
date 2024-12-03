@@ -32,6 +32,7 @@ main()
             {
                 record++;
                 seen[j] = 1;
+
             }
         }
 
