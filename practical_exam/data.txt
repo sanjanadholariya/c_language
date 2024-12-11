@@ -1,10 +1,10 @@
 
 
 Name :- mango
-color :- yellow
+color :- Ìÿa
 
-Name :- orange
-color :- orange
+Name :- mango
+color :- Ìÿa
 
-Name :- apple
-color :- red
+Name :- mango
+color :- Ìÿa
