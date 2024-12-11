@@ -1,7 +1,6 @@
-  // for (int i = 0; i < count; i++)
-    // {
-    //     for (int j = 0; j < count; j++)
-    //     {
-    //         ptr[i][j] = &array[i][j];
-    //     }
-    // }
+#include<stdio.h>
+void main()
+{
+    int a=10;
+    printf("a = %8d",a);
+}

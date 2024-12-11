@@ -1,0 +1,10 @@
+
+
+Name :- mango
+color :- yellow
+
+Name :- orange
+color :- orange
+
+Name :- apple
+color :- red
